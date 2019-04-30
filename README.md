@@ -1,3 +1,3 @@
 ## Caja de Herramientas
 
-En la [Wiki](https://github.com/labtecnologiascreativas/caja-herramientas/wiki) podras encontrar el glosario de terminos.
+Este repositorio se mudo a [gitlab.camba.coop/educacion/caja-herramientas](https://gitlab.camba.coop/educacion/caja-herramientas).
